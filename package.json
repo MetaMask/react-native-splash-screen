@@ -1,5 +1,5 @@
 {
-  "name": "react-native-splash-screen",
+  "name": "@metamask/react-native-splash-screen",
   "version": "3.2.0",
   "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
+    "url": "https://github.com/MetaMask/react-native-splash-screen.git"
   },
   "keywords": [
     "react-native",
@@ -25,10 +25,10 @@
   "author": "crazycodeboy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
+    "url": "https://github.com/MetaMask/react-native-splash-screen/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.57.0"
   },
-  "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme"
+  "homepage": "https://github.com/MetaMask/react-native-splash-screen#readme"
 }
